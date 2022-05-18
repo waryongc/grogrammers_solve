@@ -1,6 +1,7 @@
 <h2>[프로그래머스]문제풀이</h2>
 
 
+```JAVA
 import java.util.Scanner;
 
 class Solution {
@@ -18,3 +19,4 @@ class Solution {
         }
     }
 }
+```
