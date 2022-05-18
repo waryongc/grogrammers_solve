@@ -2,6 +2,7 @@
 <h2>[프로그래머스] 없는숫자 더하기 문제풀이 JAVA
 
   
+  
 ```JAVA
   class Solution {
     public int solution(int[] numbers) {
