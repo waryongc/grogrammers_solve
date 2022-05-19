@@ -1,0 +1,10 @@
+<h2>문자를 숫자로변환하기</h2>
+
+```JAVA
+class Solution {
+    public int solution(String s) {
+        int answer =  Integer.parseInt(s);        
+        return answer;
+    }
+}
+```
