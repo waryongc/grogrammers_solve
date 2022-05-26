@@ -1,5 +1,5 @@
    
-<h2>[프로그래머스] 평균구하기 JAVA</h2>
+<h2>[프로그래머스] 가운데글자 가져오기 JAVA</h2>
 
 ```JAVA
 class Solution {
